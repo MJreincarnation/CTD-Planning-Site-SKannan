@@ -29,6 +29,14 @@
                     <li> Working in Dreamweaver is slightly more complicated as the it has very few tools that are similar with fireworks <li>
                     <li> I did not struggle with Fireworks too much as Mr. Chu explained it fairly clearly and because it was quite similar to photoshop. We had been using fireworks for many things throughout the year and so it was easier for me </li>
                     <li> I am struggling a lot with my dreamweaver because the interface is completely different and I do not feel that the transition from fireworks to this was too smooth. I have already encountered numerous problems, such as fixing the size of the div, and etc., but I will pull through by doing research. </li>
-                    
+
+                  <li> Obstacles </li>
+                    <ol>
+                      <li> Did not know how to change the CSS style sheet of each div </li>
+                        <p> Miffy taught me how to do it by telling me to select the box and clicking "New CSS rule" located in properties </p>
+                      <li> Had a problem with adjusting the size of the logo to match with the size in Fireworks </li>
+                        <p> Miffy helped me again by telling me to adjust the size of the imported image rather than altering the div box </p>
+                      
+
 
   </html>
